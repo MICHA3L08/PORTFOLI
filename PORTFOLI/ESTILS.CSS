@@ -1,0 +1,17 @@
+body{
+  background-color: blue;
+}
+#cabecera{
+  width: auto;
+  height: 100px;
+  background-color: pink;
+}
+#contenedor{
+  background-color: green;
+  width: 900px;
+  height: 700px;
+  margin: 0 auto;
+}
+p{
+  
+}
